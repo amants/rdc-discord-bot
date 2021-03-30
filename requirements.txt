@@ -4,13 +4,9 @@ databases
 dataclasses
 discord.py[voice]
 colorlog==4.7.2
-PyJWT
 mysqlclient
 uvloop
 python-dotenv
 aiomysql
 python-decouple
 python-dotenv
-#libffi
-#libnacl
-#python3-dev
