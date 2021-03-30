@@ -17,7 +17,7 @@ pipenv run dev
 
 - Pydantic: Creating and enforcing models
 - Discord.py: Core Discord bot hooks
-- databases: Async database connector
+- databases: Asyncio database support
 - SQLAlchemy core: SQL query builder
 - colorlog: Log all exceptions and important stuff to text
 
