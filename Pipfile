@@ -1,0 +1,21 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+pynvim = "*"
+python-language-server = {extras = ["all"], version = "*"}
+pyls-isort = "*"
+pyls-mypy = "*"
+pyls-black = "*"
+[packages]
+python-dotenv = "*"
+colorlog = "==4.7.2"
+discord.py = "*"
+
+[requires]
+python_version = "3.8"
+
+[scripts]
+dev = "python3 app/main.py"
