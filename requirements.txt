@@ -1,0 +1,12 @@
+pydantic==1.7.3
+SQLAlchemy==1.3.22
+databases
+dataclasses
+discord.py[voice]
+colorlog==4.7.2
+mysqlclient
+uvloop
+python-dotenv
+aiomysql
+python-decouple
+python-dotenv
